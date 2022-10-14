@@ -1,0 +1,15 @@
+
+mockingDemo project will be used as base project for this upcoming Mockito course's demo and activity (and homework too! haha sorry)
+
+it is a gradle project but you may add this project to your current workspace
+(just take Cook.java and Waiter.java) if it will be faster/easier for you.  
+remember to import dependencies to your pom.xml/build.gradle if not yet available.
+
+i hope may matutunan kayo sakin lol
+
+--- Red ---
+adanzra@oocl.com
+
+
+
+
